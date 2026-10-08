@@ -1,7 +1,7 @@
 # RemindMEE — Privacy Policy
 
 **Effective Date: 8 October 2026**  
-**Last Updated: 8 October 2026**
+**Last Updated: 9 October 2026**
 
 RemindMEE ("we", "us", "our") is an AI-powered reminder application operated by **RemindMEE**, based in India.
 
@@ -66,6 +66,7 @@ RemindMEE currently uses:
 | RevenueCat | Subscription and purchase management |
 | Google Play Billing | Payment processing |
 | Message Central | SMS verification and authentication |
+| Firebase Crashlytics | Crash and error reporting (diagnostic data only — device model, OS version, app version, and crash/error logs; never document or photo contents) |
 
 These services receive information necessary for their respective functions.
 
