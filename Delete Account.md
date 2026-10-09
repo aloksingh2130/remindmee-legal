@@ -20,6 +20,12 @@ Email **remindmee9999@gmail.com** with the subject **"Delete my account"**, sent
 
 ---
 
+## Delete some data without deleting your account
+
+In the app, swipe a reminder left (or open it and tap **Delete**) to remove that reminder and its photo. You can also email **remindmee9999@gmail.com** to request deletion of specific data.
+
+---
+
 ## What is deleted
 
 - Your account and sign-in details (email address / phone number)
