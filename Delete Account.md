@@ -11,8 +11,8 @@ This page explains how to delete your **RemindMEE** account (Android app on Goog
 **Option 1 — In the app (instant)**
 
 1. Open RemindMEE and sign in.
-2. Open the **Account** menu.
-3. Tap **Delete Account** and confirm.
+2. On the home screen, tap the **⋮** menu (top-right).
+3. Tap **Delete account** and confirm.
 
 **Option 2 — By email**
 
