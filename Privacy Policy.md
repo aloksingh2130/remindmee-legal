@@ -111,7 +111,7 @@ We will handle valid requests in accordance with applicable law.
 
 ## 7. Account Deletion
 
-You can delete your account directly in the app (Account menu → Delete Account), or by contacting **remindmee9999@gmail.com**.
+You can delete your account directly in the app (tap the **⋮** menu at the top-right of the home screen → **Delete account**), or by contacting **remindmee9999@gmail.com**.
 
 Account deletion removes your account-associated cloud photographs, authentication records, and related application data (reminders, subscription records, usage history).
 
