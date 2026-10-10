@@ -1,7 +1,7 @@
 # RemindMEE — Terms of Service
 
 **Effective Date: 8 October 2026**  
-**Last Updated: 10 October 2026**
+**Last Updated: 8 October 2026**
 
 These Terms govern your use of RemindMEE, an AI-assisted reminder application operated by **RemindMEE**.
 
@@ -63,18 +63,13 @@ RemindMEE offers the following plans, subject to availability and the prices dis
 
 Six-month and yearly subscriptions provide monthly scan allowances rather than all scans upfront.
 
-**How monthly scan allowances work:**
+Scan allowances refresh on the 1st of each calendar month; unused scans don't carry over.
 
-- Subscription scan allowances refresh on the 1st of each calendar month (at 00:00 UTC, 5:30 AM India time), not on your purchase or renewal date. Your first allowance is available immediately on purchase and refreshes again on the next 1st.
-- Unused subscription scans do not carry over to the next calendar month.
-- Using up your monthly allowance does not end or pause your subscription. It remains active until the end of the period you paid for; you can wait for the next refresh or buy a one-time scan pack.
-- If you hold purchased scan credits, they are used only after your monthly subscription allowance is used up.
-
-Subscriptions are billed through Google Play and renew automatically on the same date each billing period (monthly, six-monthly or yearly) unless cancelled through Google Play.
+Subscriptions renew automatically unless cancelled through Google Play.
 
 You can manage or cancel subscriptions through your Google Play account.
 
-Cancellation stops future renewals but does not automatically refund prior payments. After cancelling, your plan and its monthly allowances continue until the end of the period you have already paid for.
+Cancellation generally stops future renewals but does not automatically refund prior payments.
 
 **Refunds:** Purchases are processed through Google Play. Refund requests are subject to Google Play policies, our applicable refund terms, and mandatory consumer protection laws.
 
@@ -86,7 +81,7 @@ We may modify future pricing or plan features subject to applicable notice requi
 
 ## 7. Free Scans and Misuse
 
-New accounts receive a one-time allowance of free scans (currently 5), subject to the eligibility conditions presented in the application. Free scans do not renew.
+Free scan allowances are subject to the eligibility conditions presented in the application.
 
 You must not create fraudulent accounts or circumvent payment, usage, or security controls.
 
@@ -104,7 +99,7 @@ Personal information is handled in accordance with the RemindMEE Privacy Policy.
 
 Deleting a reminder triggers an attempt to delete its associated local and cloud photographs. Cloud deletion may fail when offline or during technical interruptions.
 
-You can delete your account in the app (tap the **⋮** menu at the top-right of the home screen → **Delete account**) or request account or personal-data deletion by emailing **remindmee9999@gmail.com**; we aim to complete emailed requests within 30 days.
+Users may request account or personal-data deletion through the contact details provided in the Privacy Policy.
 
 Account deletion may be subject to lawful retention requirements.
 
