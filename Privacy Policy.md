@@ -1,7 +1,7 @@
 # RemindMEE — Privacy Policy
 
 **Effective Date: 8 October 2026**  
-**Last Updated: 9 October 2026**
+**Last Updated: 10 October 2026**
 
 RemindMEE ("we", "us", "our") is an AI-powered reminder application operated by **RemindMEE**, based in India.
 
@@ -66,6 +66,7 @@ RemindMEE currently uses:
 | RevenueCat | Subscription and purchase management |
 | Google Play Billing | Payment processing |
 | Message Central | SMS verification and authentication |
+| Google (Gmail) | Sending account emails: sign-up confirmation, verification codes and password-reset codes |
 | Firebase Crashlytics | Crash and error reporting (diagnostic data only — device model, OS version, app version, and crash/error logs; never document or photo contents) |
 
 These services receive information necessary for their respective functions.
@@ -117,7 +118,7 @@ Account deletion removes your account-associated cloud photographs, authenticati
 
 Deletion may be subject to legal retention obligations, technical limitations, and backup-retention periods.
 
-We will process valid deletion requests within applicable legal time limits.
+In-app deletion takes effect immediately. We aim to complete emailed deletion requests within 30 days, and in any case within applicable legal time limits.
 
 ## 8. Data Retention
 
