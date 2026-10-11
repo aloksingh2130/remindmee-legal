@@ -51,33 +51,58 @@ You must not access another user's account without authorization or misuse the s
 
 ## 6. Subscriptions and Scan Credits
 
-RemindMEE offers the following plans, subject to availability and the prices displayed at purchase:
+RemindMEE offers the following subscription plans and one-time scan packs, subject to availability and the prices displayed at purchase:
 
 | Plan | Included Scans |
 |---|---|
-| Individual Monthly | 60 per month |
-| Individual Six-Month | 60 per month |
-| Individual Yearly | 60 per month |
-| Premium Monthly | 300 per month |
+| Individual Monthly | 60 scans per month |
+| Individual Six-Month | 60 scans per month |
+| Individual Yearly | 60 scans per month |
+| Premium Monthly | 300 scans per month |
 | One-Time Scan Packs | Quantity displayed at purchase |
 
-Six-month and yearly subscriptions provide monthly scan allowances rather than all scans upfront.
+### 6.1 Scan Allowances
 
-Scan allowances refresh on the 1st of each calendar month; unused scans don't carry over.
+- Subscription scan allowances refresh on the 1st of each calendar month.
+- Unused subscription scans do not carry forward to the next month.
+- Six-month and yearly subscriptions provide monthly scan allowances, not the full subscription-period allocation upfront.
+- Purchased one-time scan credits currently have no scheduled expiration, subject to applicable law and the conditions disclosed at purchase.
 
-Subscriptions renew automatically unless cancelled through Google Play.
+### 6.2 Subscription Renewal and Cancellation
 
-You can manage or cancel subscriptions through your Google Play account.
+Subscriptions automatically renew unless cancelled through Google Play.
 
-Cancellation generally stops future renewals but does not automatically refund prior payments.
+Users may cancel their subscriptions at any time through Google Play's subscription management settings.
 
-**Refunds:** Purchases are processed through Google Play. Refund requests are subject to Google Play policies, our applicable refund terms, and mandatory consumer protection laws.
+Upon cancellation:
 
-Unused subscription scan allowances generally do not roll over to subsequent monthly periods.
+- No further subscription renewal charges will be made, provided cancellation is completed before the applicable renewal deadline.
+- Users may continue accessing their paid subscription benefits, including available scan allowances, until the end of the current paid billing period.
+- Any unused subscription scans expire according to the applicable monthly allowance and subscription expiry rules.
+- After the paid subscription expires, users may continue using RemindMEE's free features, including creating manual reminders.
+- Any remaining valid, separately purchased one-time scan credits will remain available for use, subject to their applicable terms.
 
-Purchased one-time scan credits currently have no scheduled expiration, subject to the conditions presented at purchase and applicable law.
+### 6.3 No-Refund Policy
 
-We may modify future pricing or plan features subject to applicable notice requirements and consumer rights.
+**All purchases are generally final and non-refundable once successfully completed.**
+
+RemindMEE does not ordinarily provide refunds for subscriptions, partially used subscription periods, unused scan allowances, or purchased scan packs.
+
+Cancelling a subscription prevents future renewals but does not automatically entitle the user to a refund for payments already made.
+
+**Exceptions:** Refunds may be granted where required by applicable consumer protection laws, Google Play policies, or other mandatory legal obligations. Nothing in this policy limits rights that cannot lawfully be excluded.
+
+Users may submit eligible refund requests through Google Play.
+
+### 6.4 Changes to Pricing, Plans, and Features
+
+RemindMEE reserves the right to modify subscription prices, scan allowances, plan features, promotional offers, and the availability of services at its discretion.
+
+Changes may be made without advance notice where permitted by applicable law and Google Play policies.
+
+Where advance notice, user consent, or other procedures are legally required, RemindMEE will comply with those requirements.
+
+Changes to existing subscriptions will be handled in accordance with applicable Google Play billing rules and consumer protection laws.
 
 ## 7. Free Scans and Misuse
 
