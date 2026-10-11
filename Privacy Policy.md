@@ -17,7 +17,7 @@ We collect the email address or mobile phone number you provide when registering
 
 When you scan a photograph or screenshot, RemindMEE processes the selected image to extract information that may help create a reminder.
 
-Images may contain names, addresses, financial information, identification details, prescription information, medicine instructions, or other personal data.
+Images may contain names, addresses, financial information, identification details, or other personal data.
 
 Selected images are transmitted to our backend and AI-processing providers. Photos associated with saved reminders may also be stored locally and in your account's cloud storage.
 
@@ -81,11 +81,11 @@ RemindMEE uses automated image recognition and artificial intelligence.
 
 AI-generated reminder details may be inaccurate, incomplete, or incorrectly inferred.
 
-Users must review and confirm important dates, times, amounts, medicine instructions, and other information before relying on reminders.
+Users must review and confirm important dates, times, amounts, and other information before relying on reminders.
 
-RemindMEE's reminders and notifications are a support tool only. Do not rely solely on the app's alerting mechanism for critical medical, legal, or financial obligations — always maintain an independent check or backup reminder.
+RemindMEE's reminders and notifications are a support tool only. Do not rely solely on the app's alerting mechanism for critical legal or financial obligations — always maintain an independent check or backup reminder.
 
-RemindMEE is not a substitute for professional medical, legal, or financial advice.
+RemindMEE is not a substitute for professional legal or financial advice.
 
 ## 5. Data Storage and Security
 

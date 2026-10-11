@@ -19,7 +19,7 @@ Features may include free scans, subscriptions, and one-time scan-credit purchas
 
 **AI-generated reminder details may be inaccurate, incomplete, or incorrectly inferred. Users must review and confirm all important dates, times, and instructions before relying on them.**
 
-This includes medicine dosages, bill amounts, expiry dates, legal deadlines, and other important information.
+This includes bill amounts, expiry dates, legal deadlines, and other important information.
 
 You remain responsible for checking original documents and verifying saved reminder details.
 
@@ -27,7 +27,7 @@ You remain responsible for checking original documents and verifying saved remin
 
 **RemindMEE is a convenience and productivity tool, not an emergency alert system or a guaranteed notification service.**
 
-Users should maintain independent reminders or verification methods for critical medical, legal, financial, or time-sensitive obligations.
+Users should maintain independent reminders or verification methods for critical legal, financial, or time-sensitive obligations.
 
 Notifications may be delayed, suppressed, or missed because of device settings, operating-system restrictions, battery optimization, disabled permissions, technical failures, or other circumstances.
 
@@ -35,13 +35,13 @@ We do not guarantee notification delivery at an exact time.
 
 The app's alerts are intended to help and support you, not to serve as your sole or guaranteed safeguard. You remain responsible for independently tracking critical obligations.
 
-## 4. Medical, Legal, and Financial Disclaimer
+## 4. Legal and Financial Disclaimer
 
-RemindMEE does not provide professional medical, legal, or financial advice.
+RemindMEE does not provide professional legal or financial advice.
 
-Information extracted from medicines, prescriptions, financial documents, or legal documents is provided solely to help create reminders.
+Information extracted from financial or legal documents is provided solely to help create reminders.
 
-Do not rely on RemindMEE as the sole system for medication management, emergency alerts, legal deadlines, or financial obligations.
+Do not rely on RemindMEE as the sole system for emergency alerts, legal deadlines, or financial obligations.
 
 ## 5. Account Responsibilities
 
