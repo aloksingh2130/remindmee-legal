@@ -172,9 +172,7 @@ You may stop using the application at any time and request deletion of your acco
 
 ## 16. Changes to Terms
 
-We may update these Terms when necessary.
-
-Material changes will be communicated where required, and fresh acceptance will be obtained where legally necessary.
+RemindMEE reserves the right to modify, update, or replace these Terms at any time, at its sole discretion, without prior notice, except where required by applicable law.
 
 ## 17. Governing Law
 
