@@ -1,7 +1,7 @@
 # RemindMEE — Privacy Policy
 
 **Effective Date: 8 October 2026**  
-**Last Updated: 9 October 2026**
+**Last Updated: 24 October 2026**
 
 RemindMEE ("we", "us", "our") is an AI-powered reminder application operated by **RemindMEE**, based in India.
 
@@ -11,7 +11,7 @@ This Privacy Policy describes how we collect, use, share, store, and protect per
 
 ### 1.1 Account Information
 
-We collect the email address or mobile phone number you provide when registering or signing in, along with account identifiers and authentication-related information.
+We collect the email address or mobile phone number you provide when registering or signing in, along with account identifiers and authentication-related information. If you choose to sign in with Google, we receive your name and email address from Google to create and identify your account. We do not receive your Google password.
 
 ### 1.2 Photos, Screenshots, and Documents
 
@@ -61,6 +61,7 @@ RemindMEE currently uses:
 | Provider | Purpose |
 |---|---|
 | Supabase | Authentication, database, and photo storage |
+| Google Sign-In | Optional sign-in with your Google account (name and email address) |
 | Google Cloud Vision | OCR processing of scanned photographs |
 | Google Gemini | AI extraction using scanned photographs and OCR text |
 | RevenueCat | Subscription and purchase management |
