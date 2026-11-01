@@ -1,7 +1,7 @@
 # RemindMEE — Privacy Policy
 
 **Effective Date: 8 October 2026**  
-**Last Updated: 24 October 2026**
+**Last Updated: 1 November 2026**
 
 RemindMEE ("we", "us", "our") is an AI-powered reminder application operated by **RemindMEE**, based in India.
 
@@ -29,6 +29,8 @@ We process reminder titles, dates, times, categories, notes, and extracted infor
 
 RemindMEE may request camera, microphone, and notification or alarm permissions to provide relevant features.
 
+RemindMEE does not request access to your phone's contact list. If you choose to add someone from your contacts (see section 1.6), the app uses Android's own contact picker, which shares with RemindMEE only the single contact and phone number you select.
+
 We do not currently use advertising or third-party analytics SDKs.
 
 ### 1.5 Purchase Information
@@ -39,6 +41,14 @@ We receive information needed to verify purchases, manage subscriptions, and all
 
 We do not directly collect payment card details.
 
+### 1.6 Notify Someone on WhatsApp (Optional)
+
+If you turn on "Notify someone on WhatsApp?" for a reminder, we store with that reminder the people you choose (their name and phone number, picked from your contacts or typed by you), your message wording, and the time you last sent it. This information is part of your reminder, so it is backed up and synchronized to your account like your other reminder data, and it is removed when you delete the reminder or your account.
+
+RemindMEE never sends WhatsApp messages on your behalf. When you tap a send button, the app opens WhatsApp with the message ready, and you decide whether to tap Send inside WhatsApp. Once you send, the message is handled by WhatsApp under WhatsApp's own terms and privacy policy.
+
+You should only add people whose phone numbers you are entitled to use for this purpose. Messages include your RemindMEE display name and a link to our app page, which is hosted on GitHub Pages. We do not collect any information about the people who receive your messages or who open that link.
+
 ## 2. How We Use Your Information
 
 We process information to:
@@ -47,6 +57,7 @@ We process information to:
 - Extract text and reminder details using OCR and AI.
 - Authenticate users and secure accounts.
 - Deliver or schedule reminders.
+- Prepare the WhatsApp messages you choose to send from your reminders.
 - Manage subscriptions, purchases, and scan allowances.
 - Prevent fraud, troubleshoot problems, and maintain the service.
 - Respond to support and privacy requests.
@@ -69,6 +80,8 @@ RemindMEE currently uses:
 | Message Central | SMS verification and authentication |
 | Google (Gmail) | Sending account emails (verification and password-reset codes) |
 | Firebase Crashlytics | Crash and error reporting (diagnostic data only — device model, OS version, app version, and crash/error logs; never document or photo contents) |
+| WhatsApp (Meta) | Only when you tap Send in WhatsApp: delivers the message you chose to send. RemindMEE does not send messages itself |
+| GitHub Pages | Hosts the RemindMEE app page that the optional link in WhatsApp messages points to |
 
 These services receive information necessary for their respective functions.
 

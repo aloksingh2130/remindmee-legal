@@ -1,7 +1,7 @@
 # RemindMEE — Terms of Service
 
 **Effective Date: 8 October 2026**  
-**Last Updated: 8 October 2026**
+**Last Updated: 1 November 2026**
 
 These Terms govern your use of RemindMEE, an AI-assisted reminder application operated by **RemindMEE**.
 
@@ -128,7 +128,17 @@ Users may request account or personal-data deletion through the contact details 
 
 Account deletion may be subject to lawful retention requirements.
 
-## 10. Acceptable Use
+## 10. Notify Someone on WhatsApp
+
+RemindMEE lets you optionally prepare a WhatsApp message to people you choose, or to a group you pick inside WhatsApp, from a reminder.
+
+- **You send the message.** RemindMEE does not send messages for you and does not send anything automatically. It opens WhatsApp with the message ready, and nothing is sent unless you tap Send in WhatsApp. You can edit or delete the text, including the closing lines, before sending.
+- **You are responsible for what you send.** You must have the right to contact the people you add, must not use this feature to spam, harass, or mislead anyone, and must follow WhatsApp's terms and applicable law.
+- **Suggested wording may not suit every situation.** Suggested messages (for example birthday or festival wishes) are generated from words in your reminder, may be mistaken, and should be checked by you before sending.
+- **Messages include a RemindMEE sign-off.** Messages end with your RemindMEE display name and a link to the RemindMEE app page.
+- **WhatsApp is a separate service.** WhatsApp is provided by Meta. We do not control its availability, delivery, or terms, and we are not responsible for messages that are delayed, not delivered, or misread.
+
+## 11. Acceptable Use
 
 You agree not to:
 
@@ -138,13 +148,13 @@ You agree not to:
 - Attempt unauthorized access.
 - Interfere with application security or availability.
 
-## 11. Service Availability
+## 12. Service Availability
 
 We aim to provide reliable service but do not guarantee uninterrupted availability.
 
 Features may be modified, suspended, or discontinued for legitimate operational, security, or business reasons, subject to applicable law and consumer rights.
 
-## 12. Disclaimer of Warranties
+## 13. Disclaimer of Warranties
 
 To the extent permitted by law, RemindMEE is provided on an "as is" and "as available" basis.
 
@@ -152,33 +162,33 @@ We do not guarantee that AI extraction, reminders, notifications, or other funct
 
 Nothing in these Terms limits non-waivable statutory rights.
 
-## 13. Limitation of Liability
+## 14. Limitation of Liability
 
 **To the maximum extent permitted by applicable law, RemindMEE's operator shall not be liable for indirect, incidental, special, consequential, or punitive damages, including lost profits, missed deadlines, penalties, or losses arising from inaccurate extraction or delayed notifications.**
 
 Nothing in these Terms excludes liability or statutory rights that cannot lawfully be excluded.
 
-## 14. Indemnification
+## 15. Indemnification
 
 To the extent permitted by applicable law, you agree to indemnify RemindMEE's operator against third-party claims resulting from your unlawful use of the application or infringement of third-party rights.
 
 This obligation does not apply where prohibited by law or to the extent a claim results from our own unlawful conduct.
 
-## 15. Account Suspension and Termination
+## 16. Account Suspension and Termination
 
 We may suspend or terminate accounts for serious misuse, fraud, security threats, or legal obligations, subject to applicable law.
 
 You may stop using the application at any time and request deletion of your account.
 
-## 16. Changes to Terms
+## 17. Changes to Terms
 
 RemindMEE reserves the right to modify, update, or replace these Terms at any time, at its sole discretion, without prior notice, except where required by applicable law.
 
-## 17. Governing Law
+## 18. Governing Law
 
 These Terms are governed by the laws of India, subject to mandatory consumer protection rights applicable in other jurisdictions.
 
-## 18. Contact
+## 19. Contact
 
 **Application:** RemindMEE  
 **Operator:** RemindMEE  
