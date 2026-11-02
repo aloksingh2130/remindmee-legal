@@ -1,7 +1,7 @@
 # RemindMEE — Privacy Policy
 
 **Effective Date: 8 October 2026**  
-**Last Updated: 1 November 2026**
+**Last Updated: 2 November 2026**
 
 RemindMEE ("we", "us", "our") is an AI-powered reminder application operated by **RemindMEE**, based in India.
 
@@ -46,6 +46,8 @@ We do not directly collect payment card details.
 If you turn on "Notify someone on WhatsApp?" for a reminder, we store with that reminder the people you choose (their name and phone number, picked from your contacts or typed by you), your message wording, and the time you last sent it. This information is part of your reminder, so it is backed up and synchronized to your account like your other reminder data, and it is removed when you delete the reminder or your account.
 
 RemindMEE never sends WhatsApp messages on your behalf. When you tap a send button, the app opens WhatsApp with the message ready, and you decide whether to tap Send inside WhatsApp. Once you send, the message is handled by WhatsApp under WhatsApp's own terms and privacy policy.
+
+If you switch on "Send my photo along with the message" for a reminder that has a photo, the app hands that photo to WhatsApp together with your message when you tap a send button. The photo goes from your phone directly to WhatsApp (it is not sent to us for this purpose), it is shared only if you switched this on, and nothing is sent unless you tap Send in WhatsApp. A temporary copy of the photo is kept in the app's private cache on your phone while it is being shared. Please share only photos you are entitled to share, as a photo may show other people or private details.
 
 You should only add people whose phone numbers you are entitled to use for this purpose. Messages include your RemindMEE display name and a link to our app page, which is hosted on GitHub Pages. We do not collect any information about the people who receive your messages or who open that link.
 

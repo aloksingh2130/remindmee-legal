@@ -1,7 +1,7 @@
 # RemindMEE — Terms of Service
 
 **Effective Date: 8 October 2026**  
-**Last Updated: 1 November 2026**
+**Last Updated: 2 November 2026**
 
 These Terms govern your use of RemindMEE, an AI-assisted reminder application operated by **RemindMEE**.
 
@@ -134,6 +134,8 @@ RemindMEE lets you optionally prepare a WhatsApp message to people you choose, o
 
 - **You send the message.** RemindMEE does not send messages for you and does not send anything automatically. It opens WhatsApp with the message ready, and nothing is sent unless you tap Send in WhatsApp. You can edit or delete the text, including the closing lines, before sending.
 - **You are responsible for what you send.** You must have the right to contact the people you add, must not use this feature to spam, harass, or mislead anyone, and must follow WhatsApp's terms and applicable law.
+- **Photos are your choice and your responsibility.** If you switch on "Send my photo along with the message", the reminder's photo is shared into WhatsApp with your message. Only share photos you have the right to share; a photo may show other people or private details, and you are responsible for what you send. You can switch this off at any time.
+- **Sending to several people.** When you send to more than one person or a group, WhatsApp's own list opens and you choose who receives the message; RemindMEE cannot see who you choose.
 - **Suggested wording may not suit every situation.** Suggested messages (for example birthday or festival wishes) are generated from words in your reminder, may be mistaken, and should be checked by you before sending.
 - **Messages include a RemindMEE sign-off.** Messages end with your RemindMEE display name and a link to the RemindMEE app page.
 - **WhatsApp is a separate service.** WhatsApp is provided by Meta. We do not control its availability, delivery, or terms, and we are not responsible for messages that are delayed, not delivered, or misread.
