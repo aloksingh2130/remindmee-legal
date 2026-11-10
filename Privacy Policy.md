@@ -1,7 +1,7 @@
 # RemindMEE — Privacy Policy
 
 **Effective Date: 8 October 2026**  
-**Last Updated: 2 November 2026**
+**Last Updated: 10 November 2026**
 
 RemindMEE ("we", "us", "our") is an AI-powered reminder application operated by **RemindMEE**, based in India.
 
@@ -28,6 +28,8 @@ We process reminder titles, dates, times, categories, notes, and extracted infor
 ### 1.4 Device Permissions
 
 RemindMEE may request camera, microphone, and notification or alarm permissions to provide relevant features.
+
+If you use voice input, your phone's built-in speech recognition service (on Android, usually provided by Google) converts your speech into text. RemindMEE does not record or store audio. The text, or a date you type, may be sent to our backend and AI provider (Google Gemini) to understand the date and time; it is used only to fill in your reminder and is not stored separately.
 
 RemindMEE does not request access to your phone's contact list. If you choose to add someone from your contacts (see section 1.6), the app uses Android's own contact picker, which shares with RemindMEE only the single contact and phone number you select.
 
@@ -76,7 +78,7 @@ RemindMEE currently uses:
 | Supabase | Authentication, database, and photo storage |
 | Google Sign-In | Optional sign-in with your Google account (name and email address) |
 | Google Cloud Vision | OCR processing of scanned photographs |
-| Google Gemini | AI extraction using scanned photographs and OCR text |
+| Google Gemini | AI extraction using scanned photographs and OCR text, and understanding spoken or typed dates and times |
 | RevenueCat | Subscription and purchase management |
 | Google Play Billing | Payment processing |
 | Message Central | SMS verification and authentication |
