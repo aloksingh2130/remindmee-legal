@@ -130,6 +130,8 @@ We will handle valid requests in accordance with applicable law.
 
 You can delete your account directly in the app (tap the **⋮** menu at the top-right of the home screen → **Delete account**), or by contacting **remindmee9999@gmail.com**.
 
+Full account-deletion steps are also available on our web page: [Delete Your Account](https://aloksingh2130.github.io/remindmee-legal/Delete%20Account).
+
 Account deletion removes your account-associated cloud photographs, authentication records, and related application data (reminders, subscription records, usage history).
 
 Deletion may be subject to legal retention obligations, technical limitations, and backup-retention periods.
